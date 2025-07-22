@@ -1,0 +1,10 @@
+
+## 🖥️ Tech Stack
+
+- Python
+- `scikit-learn`
+- `pandas`, `numpy`
+- `matplotlib`, `seaborn`
+- Jupyter Notebook
+
+---
